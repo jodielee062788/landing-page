@@ -1,0 +1,72 @@
+* {
+    font-family: Arial;
+    color: rgb(59, 41, 11);
+}
+
+.bar {
+    background-color: rgb(13, 107, 73); 
+    height: 40px;
+    color: white;
+    padding: 14px;
+}
+
+nav {
+    border-bottom: 8px solid rgb(227, 201, 178);
+}
+
+.container {
+    text-align: right;
+    padding: 12px;
+    border: 10px;
+}
+
+
+a {
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+    font-size: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.contact-box {
+    background-color: rgb(227, 201, 178);
+    padding: 10px;
+    border-top: 4px solid rgb(216, 161, 112);
+}
+
+#email{
+    margin-top: 7px;
+}
+
+button {
+    background-color: rgb(61, 1, 1);
+    color: white;
+    width: 120px;
+    height: 40px;
+    margin-top: 10px; 
+}
+
+.border-info {
+    border: 5px solid rgb(216, 161, 112);
+    border-radius: 25px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 15px;
+    width: 400px;
+    height: 100px;
+}
+
+footer {
+	text-align: center;
+    border-bottom: 7px solid rgb(35, 18, 18);
+}
+
+#footer {
+    color: white;
+    font-size: 18px;
+    margin: 10px;
+}
